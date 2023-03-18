@@ -1,1 +1,1 @@
-web: npm run preview --port $PORT
+web: node_modules/.bin/vite preview --port $PORT
