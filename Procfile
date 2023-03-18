@@ -1,1 +1,1 @@
-web: npm run preview --port $PORT --timeout 120s
+web: npm run preview --port $PORT
